@@ -3,7 +3,9 @@
    2 ls
    3 cd animals
    4 mkdir dogs
-   5 mkdir cats
+   5 mkdir cdhcejhvbj
+kjrbkrjbkrb
+lrrats
    6 mkdir fish
    7 ls
    8 pwd
